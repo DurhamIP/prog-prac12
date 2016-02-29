@@ -12,7 +12,7 @@ This practical focuses on the enumerated types used in the previous lectures.
 MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY and 
 SUNDAY
 2. Test your enumeration for _Day_. You should create a variable dayOfWeek (of type _Day_), set this to a day of the week, and then compare dayOfWeek with each enumeration from _Day_.
-3. Using If statements output the following information on each day of the week. (You should loop through each enumeration of a day)
+3. Using If statements output the following information on each day of the week. (You should loop through each enumeration of Day)
    - I like Mondays as we have an IP lecture
    - Tuesday's aren't that great
    - Wednesday is a half-day
