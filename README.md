@@ -25,14 +25,18 @@ SUNDAY
 
 1. Extend your _Day_ enumeration to take a single boolean parameter representing if this day is a weekend day. E.g. MONDAY(false) or SUNDAY(true).
 2. Add a method goodDay() to your enumeration which returns true if the day is a weekend and false otherwise.
-3. Test your enumeration by looping through the days and outputting "I like \<DAY>" where \<DAY> is a weekend day and "I don't like \<DAY>" when \<DAY> is not a weekend.
+3. Test your enumeration by looping through the days and outputting "I like \<DAY>" where \<DAY> is a weekend day and "I don't like \<DAY>" when \<DAY> is not a weekend day.
 
 ###Level 3: Ordering
 
 Create an enumeration called _Planets_ which represents the planets in our solar system. Extend the _Planets_ to include their distance from the sun. Add a method to the _Planets_ enumeration which given the following statement:
+
    ```Planets.MERCURY.closerToSun(Planets.EARTH)```
+
 would return true and given the statement:
-```Planets.NEPTUNE.closerToSun(Planets.MARS)```
+
+   ```Planets.NEPTUNE.closerToSun(Planets.MARS)```
+
 would return false.
 
 Test your code thoroughly.
