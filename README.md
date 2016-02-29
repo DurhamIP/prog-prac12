@@ -29,8 +29,10 @@ SUNDAY
 
 ###Level 3: Ordering
 
-1. Create an enumeration called _Planets_ which represents the planets in our solar system. Extend the _Planets_ to include their distance from the sun. Add a method to the _Planets_ enumeration which given the following statement:
+Create an enumeration called _Planets_ which represents the planets in our solar system. Extend the _Planets_ to include their distance from the sun. Add a method to the _Planets_ enumeration which given the following statement:
    ```Planets.MERCURY.closerToSun(Planets.EARTH)```
 would return true and given the statement:
 ```Planets.NEPTUNE.closerToSun(Planets.MARS)```
 would return false.
+
+Test your code thoroughly.
