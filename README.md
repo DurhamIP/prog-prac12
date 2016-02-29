@@ -32,7 +32,7 @@ SUNDAY
 Create an enumeration called _Planets_ which represents the planets in our solar system. Extend the _Planets_ to include their distance from the sun. Add a method to the _Planets_ enumeration which given the following statement:
 
 
-   ```Planets.MERCURY.closerToSun```
+   ```\Planets.MERCURY.closerToSun```
 
    ```Planets.MERCURY.closerToSun(Planets.EARTH)```
 
